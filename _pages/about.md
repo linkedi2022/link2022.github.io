@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 1st Language and Interaction Network Conference 
 ======
 The 1st Language and Interaction Network Conference (LINk) will take place in Edinburgh the 8th and 9th of October, 2022. It is organized by the Psycholinguistics Coffee, a journal club run at the University of Edinburgh. 
