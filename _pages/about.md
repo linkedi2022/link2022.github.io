@@ -22,7 +22,7 @@ In this website, you can find information about call for poster and workshop abs
 
 Timeline
 ======
-- **1st August**: Abstracts and Workshops proposals submissions open. You can find the guidelines [here]().
+- **1st August**: Abstracts and Workshops proposals submissions open. You can find the guidelines [here](https://linkedi2022.github.io/submissions/).
 - **15th August**: Attendees registration opens.
 - **1st September**: Abstracts and Workshops proposals submission close.
 - **16th September**: Notification of acceptance.
@@ -31,4 +31,4 @@ Timeline
 
 Organising committee
 ------
-This conference is run by Greta Gandolfi and Esperanza Badaya, organisers of the Psycholinguistics Coffee. It is funded by a Student Initiative Fund (SIF) grant by the School of Philosophy, Psychology, and Language Sciences.
+This conference is run by Greta Gandolfi and Esperanza Badaya, organisers of the Psycholinguistics Coffee. It is funded by a Student Initiative Fund (SIF) grant by the School of Philosophy, Psychology, and Language Sciences (University of Edinburgh).
