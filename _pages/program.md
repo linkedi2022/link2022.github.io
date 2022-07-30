@@ -5,253 +5,32 @@ permalink: /program/
 author_profile: true
 ---
 
+
+ # 8th October
+
 <style>
 td, th {
    border: none!important;
 }
 </style>
+ 
+Time | Event
+:-----:|----------------
+**9:00am** | Registration & Welcome
+**9:30am** | Keynote speaker(s) talk <br> _TBC_<br> This will be the first talk by our invited keynote speaker(s). Following received feedback, this first talk will be on what is like to move from PhD to post-doc position (e.g., job hunting, barriers faced), how was their career path, and the reality of being an Academic. Talks will be an hour, followed by a 30 min Q&A session.
+**11:00am** | Coffee Break
+**11:30am** | Workshop 1 <br> _TBD_ <br> We will confirm workshops on the 1st of September.
+**13:00pm** |  Lunch Break <br> Catering will be provided by the venue.
+**15:00pm** | Poster Session 1 <br> First poster session of the conference (with coffee and tea).
+**17:00pm** | Social activity: Pub Quiz & Pizza <br> We have prepared a social activity to get to know each other! We will have a pub quiz and pizza :)
+           
+# 9th October
 
-
-| Time         | Length        | Speed              | Mass         |
-| ------------ | ------------- | ------------------ | ------------ |
-| -Millisecond | Millimetre    | Kilometre per hour | Milligram    |
-| Second       | Centimetre    | Foot per second    | Gram         |
-| Minute       | Inch          | Miles per hour     | Ounce        |
-
-
-<head>
-  <link rel=rel="stylesheet" type="text/css" media="all" href="assets/tables.css"/>
-  <script type="text/javascript" async
-        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=default">
-    </script>
- </head>
-<body> 
-  <table>
-        <tr>
-            <td class="title">
-            8th October
-            </td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <td class="date" rowspan="2">
-                9:00am
-            </td>
-            <td class="title-special">
-                Registration and Coffee &amp; Tea!
-            </td>
-        </tr>
-    </table>
-<table id="Keynote speaker(s) talk">
-        <tr>
-            <td class="date" rowspan="3">
-                9:30am
-            </td>
-            <td class="title">
-                Keynote speaker(s) talk 
-            </td>
-        </tr>
-        <tr>
-            <td class="speaker">
-                TBC
-            </td>
-        </tr>
-        <tr>
-            <td class="abstract">
-                 This will be the first talk by our invited keynote speaker(s). Following received feedback, this first talk will be on what is like to move from PhD to post-doc position (e.g., job hunting, barriers faced), how was their career path, and the reality of being an Academic. Talks will be an hour, followed by a 30 min Q&A session.
-            </td>
-        </tr>
-    </table>
-
-    <table id="Coffee break">
-        <tr>
-            <td class="date" rowspan="3">
-                11:00am
-            </td>
-            <td class="title-special">
-                Coffee Break
-            </td>
-        </tr>
-    </table>
-
-    <table id="Workshop 1">
-        <tr>
-            <td class="date" rowspan="3">
-                11:30am
-            </td>
-            <td class="title">
-                Workshop 1 
-            </td>
-        </tr>
-        <tr>
-            <td class="speaker">
-                TBD
-            </td>
-        </tr>
-        <tr>
-            <td class="abstract">
-                We will confirm workshops on the 1st of September.
-            </td>
-        </tr>
-    </table>
-
-    <table id="Lunch Break">
-        <tr>
-            <td class="date" rowspan="3">
-                13:00pm
-            </td>
-            <td class="title-special">
-                Lunch Break
-            </td>
-        </tr>
-        <tr>
-            <td class="abstract">
-                Catering will be provided by the venue.
-            </td>
-        </tr>
-    </table>
-
-    <table>
-        <tr>
-            <td class="date" rowspan="2">
-                15:00pm
-            </td>
-            <td class="title">
-                Poster Session 1
-            </td>
-        </tr>
-        <tr>
-            <td class="abstract">
-                First poster session of the conference (with coffee and tea).
-            </td>
-        </tr>
-    </table>
-
-    <table class="Social activity">
-        <tr>
-            <td class="date" rowspan="3">
-                17:00pm
-            </td>
-            <td class="title">
-                Social activity: Pub Quiz & Pizza
-            </td>
-        </tr>
-        <tr>
-            <td class="abstract">
-                We have prepared a social activity to get to know each other! We will have a pub quiz and pizza :)
-            </td>
-        </tr>
-    </table>
-
-    <table>
-        <tr>
-            <td class="title">
-                9th October
-            </td>
-        </tr>
-    </table>
-<table id="Keynote speaker(s) talk">
-        <tr>
-            <td class="date" rowspan="3">
-                9:00am
-            </td>
-            <td class="title">
-                Keynote speaker(s) talk 
-            </td>
-        </tr>
-        <tr>
-            <td class="speaker">
-                TBC
-            </td>
-        </tr>
-        <tr>
-            <td class="abstract">
-                 This will be the second talk by our invited keynote speaker(s). Following received feedback, this second talk will be on on future directions in Psycholinguistics, interdisciplinarity, and how we can improve the science we do (including how to improve our working spaces). Talks will be an hour, followed by a 30 min Q&A session.
-            </td>
-        </tr>
-    </table>
-
-    <table id="Coffee break">
-        <tr>
-            <td class="date" rowspan="3">
-                10:30am
-            </td>
-            <td class="title-special">
-                Coffee Break
-            </td>
-        </tr>
-    </table>
-
-    <table id="Workshop 1">
-        <tr>
-            <td class="date" rowspan="3">
-                11:00am
-            </td>
-            <td class="title">
-                Workshop 2 
-            </td>
-        </tr>
-        <tr>
-            <td class="speaker">
-                TBD
-            </td>
-        </tr>
-        <tr>
-            <td class="abstract">
-                We will confirm workshops on the 1st of September.
-            </td>
-        </tr>
-    </table>
-
-    <table id="Lunch Break">
-        <tr>
-            <td class="date" rowspan="3">
-                12:30pm
-            </td>
-            <td class="title-special">
-                Lunch Break
-            </td>
-        </tr>
-        <tr>
-            <td class="abstract">
-                Catering will be provided by the venue.
-            </td>
-        </tr>
-    </table>
-
-    <table>
-        <tr>
-            <td class="date" rowspan="2">
-                14:00pm
-            </td>
-            <td class="title">
-                Poster Session 2
-            </td>
-        </tr>
-        <tr>
-            <td class="abstract">
-                Second poster session of the conference (with coffee and tea).
-            </td>
-        </tr>
-    </table>
-
-    <table class="Social activity">
-        <tr>
-            <td class="date" rowspan="3">
-                16:00pm
-            </td>
-            <td class="title">
-                Round table & closing event
-            </td>
-        </tr>
-        <tr>
-            <td class="abstract">
-                We will be closing the event by having a round table of sorts, where we can discuss what we have been talking during the event and exchange ideas. Likewise, we will like to discuss the possibility of continuing this event (hosted by PPLS or any other university/department) and how it could be improved.
-            </td>
-        </tr>
-    </table>
-</body>
-
-  
-</html>
+Time | Event
+:-----:|--------
+**9:00am** | Keynote speaker(s) talk <br> _TBC_ <br> This will be the second talk by our invited keynote speaker(s). Following received feedback, this second talk will be on on future directions in Psycholinguistics, interdisciplinarity, and how we can improve the science we do (including how to improve our working spaces). Talks will be an hour, followed by a 30 min Q&A session.
+**10:30am** | Coffee Break
+**11:00am** | Workshop 2 <br>  _TBD_ <br> We will confirm workshops on the 1st of September.
+**12:30pm** | Lunch Break <br> Catering will be provided by the venue.
+**14:00pm** | Poster Session 2 <br> Second poster session of the conference (with coffee and tea).
+**16:00pm** | Round table & closing event <br> We will be closing the event by having a round table of sorts, where we can discuss what we have been talking during the event and exchange ideas. Likewise, we will like to discuss the possibility of continuing this event (hosted by PPLS or any other university/department) and how it could be improved.
