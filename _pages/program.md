@@ -4,16 +4,14 @@ title: "Program"
 permalink: /program/
 author_profile: true
 ---
-
-
- # 8th October
-
 <style>
 td, th {
    border: none!important;
 }
 </style>
- 
+
+ # 8th October
+
 Time | Event
 :-----:|----------------
 **9:00am** | Registration & Welcome
