@@ -31,4 +31,4 @@ Time | Event
 **11:00am** <br> <br> <br>| Workshop 2 <br>  _TBD_ <br> We will confirm workshops on the 1st of September.
 **12:30pm** <br> <br>| Lunch Break <br> Catering will be provided by the venue.
 **14:00pm** <br> <br>| Poster Session 2 <br> Second poster session of the conference (with coffee and tea).
-**16:00pm** <br> <br>|  Round table & closing event <br> We will be closing the event by having a round table of sorts, where we can discuss what we have been talking during the event and exchange ideas. Likewise, we will like to discuss the possibility of continuing this event (hosted by PPLS or any other university/department) and how it could be improved.
+**16:00pm** <br> <br> <br> <br>|  Round table & closing event <br> We will be closing the event by having a round table of sorts, where we can discuss what we have been talking during the event and exchange ideas. Likewise, we will like to discuss the possibility of continuing this event (hosted by PPLS or any other university/department) and how it could be improved.
