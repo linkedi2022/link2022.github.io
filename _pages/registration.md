@@ -10,9 +10,14 @@ Please, register your attendance [here](https://edinburgh.eu.qualtrics.com/jfe/f
 
 We will ask you to register **even if you are also presenting**, so we can keep track of the numbers.
 
+### In-person attendees
+
 Given the feedback we gathered, we can host 48 people including presenters in-person. Therefore, we will work on a first-come-first-served basis.
 
 If you cannot get a ticket, we will include you in the waiting list. As attendees may be travelling to Edinburgh, we will send a reminder for those who signed up to confirm their attendance 15 days prior to the conference. 
-We understand that due to the requirement to book in case of travelling, the better we let potential attendees know the better. Therefore, we will contact at least 15 days in advance those in the waiting list in case there is a free spot. 
 
-For those attending on-line, we will ask you to register as well so we can contact you with the links to join the event online.
+We understand that due to the requirement to book in case of travelling, the earlier we let potential attendees know the better. Therefore, we will contact at least 15 days in advance those in the waiting list in case there is a free spot.  
+
+### Online attendees
+
+For those attending on-line, we will ask you to register too. We will contact you with the details on how to join the talks and workshops, as well as to access the posters presented.
