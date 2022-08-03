@@ -7,7 +7,7 @@ author_profile: true
 
 # John McIntyre Conference Centre, Pollock Halls
 
-The event will take place at the John McIntyre Conference centre (Pollock Halls, 18 Holyrood Park Rd, Edinburgh EH16 5AY), which can be accessed by bus from the city centre. The conference will take place at the Prestonfield Room. 
+The event will take place in the Prestonfield Room, at the John McIntyre Conference centre (Pollock Halls, 18 Holyrood Park Rd, Edinburgh EH16 5AY), which can be accessed by bus from the city centre.
 
 The room is located right next to the food reception, and has gorgeous views of Arthur’s Seat. The poster session will take place in the hall, to allow people move around while enjoying a snack.
 
