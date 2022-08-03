@@ -9,7 +9,7 @@ author_profile: true
 
 Pollock Halls are easily accessible by bus and it is within walking distance from the city centre.
 
-If you are coming by train to Edinburgh, we recommend you to get off on Waverley Station, from where the buses 14, 30, and 33 stop in front of the Commonwealth Pool, which is a 5-minutes walk from the venue. From Haymarket Station, bus 33 will take you to the venue in approximately 35 minutes.
+If you are coming by train to Edinburgh, we recommend you to get off at Waverley Station. From there, you can take buses 14, 30, and 33 which stop in front of the Commonwealth Pool, a 5-minutes walk from the venue. From Haymarket Station, bus 33 will take you to the venue in approximately 35 minutes.
 
 If you are coming by bus to Edinburgh, bus 14 will take you from the bus station to the Commonwealth Pool. Alternatively, you can walk to Waverly Station (approximately 7-minutes walk) and take any of the buses listed above.
 
