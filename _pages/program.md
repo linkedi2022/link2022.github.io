@@ -10,7 +10,7 @@ td, th {
 }
 </style>
 
-# 8th October
+# 22nd October
 
 Time | Event
 :-----:|----------------
@@ -22,7 +22,7 @@ Time | Event
 **15:00pm** <br> <br> | **Poster Session 1** <br> First poster session of the conference (with coffee and tea).
 **17:00pm** <br> <br> | **Social activity: Pub Quiz & Pizza** <br> We have prepared a social activity to get to know each other! We will have a pub quiz and pizza :)
            
-# 9th October
+# 23rd October
 
 Time | Event
 :-----:|--------
