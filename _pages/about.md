@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-The 1st Language and Interaction Network event (LINk) will take place in Edinburgh on the **8th and 9th of October, 2022**. It is organized by the Psycholinguistics Coffee, a journal club run at the University of Edinburgh.
+The 1st Language and Interaction Network event (LINk) will take place in Edinburgh on the **21st and 22nd of October, 2022**. It is organized by the Psycholinguistics Coffee, a journal club run at the University of Edinburgh.
 
 Our aim for this event is to create a space for ECR and PGT currently working or interested in Psycholinguistics in the UK to get to know each other, create networks and a community. We want to bring people together to discuss research, be it what we are currently working on, what interests us, and what we believe could be improved, as well as to share our experiences.
 
@@ -21,12 +21,12 @@ In this website, you can find information about call for poster and workshop abs
 
 Timeline
 ======
-- **1st August**: Abstracts and Workshops proposals submissions open. You can find the guidelines [here](https://linkedi2022.github.io/submissions/).
-- **1st August**: Attendees registration opens.
-- **1st September**: Abstracts and Workshops proposals submission close.
-- **16th September latest**: Notification of acceptance.
-- **30th September**: Attendees registration closes. 
-- **8th and 9th October**: LINk at Edinburgh!
+- **22nd August**: Abstracts and Workshops proposals submissions open. You can find the guidelines [here](https://linkedi2022.github.io/submissions/).
+- **22nd August**: Attendees registration opens.
+- **23rd September**: Abstracts and Workshops proposals submission close.
+- **30th September latest**: Notification of acceptance.
+- **1st October**: Attendees registration closes. 
+- **21st and 22nd October**: LINk at Edinburgh!
 
 Organising committee
 ------
