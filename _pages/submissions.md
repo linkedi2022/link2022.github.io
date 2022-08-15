@@ -13,7 +13,7 @@ Call for poster abstracts
 =====
 We invite submissions in any area of psycholinguistics, with a focus on work by PGT/ECR. Both completed works, on-going research and previously presented worked are welcome. We will print the posters for presenters, so note that if your abstract gets accepted, we will ask you for your poster a week before the conference. 
 
-Abstracts are due on September 1st, and may be submitted via our submission portal [here](https://edinburgh.eu.qualtrics.com/jfe/form/SV_3wJriza6k3bDDmu).
+Abstracts are due on September 23rd, and may be submitted via our submission portal [here](https://edinburgh.eu.qualtrics.com/jfe/form/SV_3wJriza6k3bDDmu).
 
 Submission guidelines
 -----
@@ -36,7 +36,7 @@ This is in case different people submit similar abstracts – again, the goal of
 
 Workshops will be in-person but we wish to also stream them online. Workshops will last 1.5 hours.
 
-Abstracts are due on the 1st September, and may be submitted via our submission portal [here](https://edinburgh.eu.qualtrics.com/jfe/form/SV_eyS0eGXWR5cEv6m).
+Abstracts are due on the 23rd September, and may be submitted via our submission portal [here](https://edinburgh.eu.qualtrics.com/jfe/form/SV_eyS0eGXWR5cEv6m).
 
 Review of submissions will occur in **two stages**:
 In the _first round_, we will ask you for:
