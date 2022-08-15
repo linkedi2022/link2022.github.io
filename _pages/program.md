@@ -15,7 +15,7 @@ td, th {
 Time | Event
 :-----:|----------------
 **9:00am** | **Registration & Welcome**
-**9:30am** <br><br> <br><br> <br>| **Keynote speakers talk** <br> _TBC_<br> Following received feedback, we have invited a series of ECRs to a give talk on job-hunting related issues: What is like to move from PhD to post-doc position (e.g., job hunting, barriers faced), how was their career path, and the reality of being an Academic. Our speakers will discuss these topics for an hour, followed by an Q&A 30-minutes session for questions from the audience.
+**9:30am** <br><br> <br><br> <br><br> <br>| **Keynote speakers talk** <br> _TBC_<br> Following received feedback, we have invited a series of ECRs to a give talk on job-hunting related issues: What is like to move from PhD to post-doc position (e.g., job hunting, barriers faced), how was their career path, and the reality of being an Academic. Our speakers will discuss these topics for an hour, followed by an Q&A 30-minutes session for questions from the audience.
 **11:00am** | Coffee Break
 **11:30am** <br> <br> <br>| **Workshop 1** <br> _TBD_ <br> We will confirm workshops on the 1st of September.
 **13:00pm** <br> <br> | **Lunch Break** <br> Catering will be provided by the venue.
@@ -26,7 +26,7 @@ Time | Event
 
 Time | Event
 :-----:|--------
-**9:00am** <br><br> <br><br> <br>| **Roundtable** <br> _TBC_ <br> In this session, we wish to discuss different topics regarding how we conduct science: e.g, future directions in Psycholinguistics, interdisciplinarity, and how we can improve the science we do (including how to improve our working spaces and reproducibility). To promove conversations amongst ourselves, this roundtable will be done in small teams and then we will put together what we have discussed.
+**9:00am** <br><br> <br><br> <br><br> <br>| **Roundtable** <br> _TBC_ <br> In this session, we wish to discuss different topics regarding how we conduct science: e.g, future directions in Psycholinguistics, interdisciplinarity, and how we can improve the science we do (including how to improve our working spaces and reproducibility). To promove conversations amongst ourselves, this roundtable will be done in small teams and then we will put together what we have discussed.
 **10:30am** | **Coffee Break**
 **11:00am** <br> <br> <br>| **Workshop 2** <br>  _TBD_ <br> We will confirm workshops on the 1st of September.
 **12:30pm** <br> <br>| **Lunch Break** <br> Catering will be provided by the venue.
