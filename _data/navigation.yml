@@ -4,8 +4,11 @@ main:
     url: /submissions/
 
   - title: "Registration"
-    url: /registration/    
-
+    url: /registration/   
+    
+  - title: "Speakers"
+    url: /speakers/
+    
   - title: "Program"
     url: /program/    
     
