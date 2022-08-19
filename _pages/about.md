@@ -31,3 +31,4 @@ Timeline
 Organising committee
 ------
 This event is run by Greta Gandolfi and Esperanza Badaya, organisers of the Psycholinguistics Coffee. It is funded by a Student Initiative Fund (SIF) grant by the School of Philosophy, Psychology, and Language Sciences (University of Edinburgh).
+Logo design by [Luca]().
