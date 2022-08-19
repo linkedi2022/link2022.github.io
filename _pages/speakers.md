@@ -17,4 +17,4 @@ We are happy to announce that the following speakers will join us for our talk o
 
 
 
-## Dr. Ludovine Crible (Ghent University)
+## Dr. Ludivine Crible (Ghent University)
