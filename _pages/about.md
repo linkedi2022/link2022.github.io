@@ -22,13 +22,13 @@ In this website, you can find information about call for poster and workshop abs
 Timeline
 ======
 - **29th August**: Abstracts and Workshops proposals submissions open. You can find the guidelines [here](https://linkedi2022.github.io/submissions/).
-- **29th August**: Attendees registration opens.
+- **22nd September**: Attendees registration opens.
 - **23rd September**: Abstracts and Workshops proposals submission close.
 - **30th September latest**: Notification of acceptance.
-- **1st October**: Attendees registration closes. 
+- **5th October**: Attendees registration closes. 
 - **22nd and 23rd October**: LINk at Edinburgh!
 
 Organising committee
 ------
-This event is run by Greta Gandolfi and Esperanza Badaya, organisers of the Psycholinguistics Coffee. It is funded by a Student Initiative Fund (SIF) grant by the School of Philosophy, Psychology, and Language Sciences (University of Edinburgh).
+This event is run by [Greta Gandolfi](https://twitter.com/greta_gandolfi) and [Esperanza Badaya](https://twitter.com/erbadaya), organisers of the Psycholinguistics Coffee. It is funded by a Student Initiative Fund (SIF) grant by the School of Philosophy, Psychology, and Language Sciences (University of Edinburgh).
 Logo design by [Luca Gabrieli](https://www.instagram.com/cia_rro/).
