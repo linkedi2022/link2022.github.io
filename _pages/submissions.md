@@ -13,6 +13,8 @@ Call for poster abstracts
 =====
 We invite submissions in any area of psycholinguistics, with a focus on work by PGT/ECR. Both completed works, on-going research and previously presented worked are welcome. We will print the posters for presenters, so note that if your abstract gets accepted, we will ask you for your poster a week before the conference. 
 
+In-person presenters will have their posters printed by us. Both posters submitted for online and in-person presentations will be uploaded to an online platform which online participants will access to see their work asynchronously and leave questions on a padlet for presenters to answer.
+
 Abstracts are due on September 23rd, and may be submitted via our submission portal which will be posted on the **29th of August**. 
 
 Submission guidelines
