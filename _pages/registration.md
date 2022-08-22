@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 LINk is a free event, meaning that there are no fees! However, we ask you to register your attendance so we can provide enough catering and do so considering attendees' dietary requirements.
-Please, register your attendance [here](https://edinburgh.eu.qualtrics.com/jfe/form/SV_eERqASwMp3ZExWC). 
+The link to register as an attendee will open on the **22nd of September**.
 
 We will ask you to register **even if you are also presenting**, so we can keep track of the numbers.
 
