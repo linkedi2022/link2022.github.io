@@ -21,8 +21,8 @@ In this website, you can find information about call for poster and workshop abs
 
 Timeline
 ======
-- **22nd August**: Abstracts and Workshops proposals submissions open. You can find the guidelines [here](https://linkedi2022.github.io/submissions/).
-- **22nd August**: Attendees registration opens.
+- **29th August**: Abstracts and Workshops proposals submissions open. You can find the guidelines [here](https://linkedi2022.github.io/submissions/).
+- **29th August**: Attendees registration opens.
 - **23rd September**: Abstracts and Workshops proposals submission close.
 - **30th September latest**: Notification of acceptance.
 - **1st October**: Attendees registration closes. 
