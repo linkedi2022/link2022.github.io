@@ -12,7 +12,7 @@ We will ask you to register **even if you are also presenting**, so we can keep 
 
 ### In-person attendees
 
-Given the feedback we gathered, we can host 48 people including presenters in-person. Therefore, we will work on a first-come-first-served basis.
+Given the feedback we gathered, we can host 40 people including presenters in-person. Therefore, we will work on a first-come-first-served basis.
 
 If you cannot get a ticket, we will include you in the waiting list. As attendees may be travelling to Edinburgh, we will send a reminder for those who signed up to confirm their attendance 15 days prior to the conference. 
 
