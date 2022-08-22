@@ -1,10 +1,9 @@
 ---
 layout: archive
+title: Keynote speakers
 permalink: /speakers/
 author_profile: true
 ---
-
-# Keynote speakers
 
 We are happy to announce that the following speakers will join us for our talk on life in Psycholinguistics after the PhD!
 
