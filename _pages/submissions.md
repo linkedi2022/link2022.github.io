@@ -15,7 +15,7 @@ We invite submissions in any area of psycholinguistics, with a focus on work by 
 
 In-person presenters will have their posters printed by us. Both posters submitted for online and in-person presentations will be uploaded to an online platform which online participants will access to see their work asynchronously and leave questions on a padlet for presenters to answer.
 
-Abstracts are due on September 23rd. **You can now submit your poster here [here](https://edinburgh.eu.qualtrics.com/jfe/form/SV_3wJriza6k3bDDmu).**
+Abstracts are due on September 23rd. **You can now submit your poster [here](https://edinburgh.eu.qualtrics.com/jfe/form/SV_3wJriza6k3bDDmu).**
 
 Submission guidelines
 -----
