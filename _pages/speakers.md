@@ -20,7 +20,7 @@ Prior to this, Dr. Tobar-Henríquez completed her PhD in Psycholinguistics at th
 
 [Twitter](https://twitter.com/charlotteewilks)
 
-Dr. Charlotte Wilks (she/her) is currently a Postdoc at the University of Warwick. She has also worked as a Postdoc at the University of Edinburgh and at Abertay University. Dr. Wilks's background is quite varied, spanning a PhD in Psychology (University of Stirling), a PGCE Primary with Mathematics (University of Leicester), a MSc in Neuroscience (University College London) and a BSc in Bioveterinary Science (University of Liverpool). In addition to her research positions, she has worked as a primary school teacher and in various administration roles. 
+Dr. Charlotte Wilks (she/her) is currently a Postdoc at the University of Nottingham. She has also worked as a Postdoc at the University of Edinburgh and at Abertay University. Dr. Wilks's background is quite varied, spanning a PhD in Psychology (University of Stirling), a PGCE Primary with Mathematics (University of Leicester), a MSc in Neuroscience (University College London) and a BSc in Bioveterinary Science (University of Liverpool). In addition to her research positions, she has worked as a primary school teacher and in various administration roles. 
 
 ## Dr. Ludivine Crible
 
