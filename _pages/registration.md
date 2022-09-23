@@ -9,7 +9,7 @@ LINk is a free event, meaning that there are no fees! However, we ask you to reg
 
 **You can now register following [this link](https://edinburgh.eu.qualtrics.com/jfe/form/SV_eERqASwMp3ZExWC)**.
 
-We will ask you to register **even if you are also presenting**, so we can keep track of the numbers.
+If your poster or workshop abstract is accepted, we will already have a space for you - we will contact you to get your dietary requirements.
 
 ### In-person attendees
 
