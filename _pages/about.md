@@ -25,7 +25,7 @@ Timeline
 - **29th August**: Abstracts and Workshops proposals submissions open. You can find the guidelines [here](https://linkedi2022.github.io/submissions/).
 - **22nd September**: Attendees registration opens.
 - ~**23rd September**~ ***30th September***: Abstracts and Workshops proposals submission close (**new deadline!**).
-- **5th October**: Attendees registration closes.
+- **10th October**: Attendees registration closes.
 - ***7th October***: Notification of acceptance (**new date!**). 
 - **22nd and 23rd October**: LINk at Edinburgh!
 
