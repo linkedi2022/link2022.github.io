@@ -15,7 +15,7 @@ We invite submissions in any area of psycholinguistics, with a focus on work by 
 
 In-person presenters will have their posters printed by us. Both posters submitted for online and in-person presentations will be uploaded to an online platform which online participants will access to see their work asynchronously and leave questions on a padlet for presenters to answer.
 
-Abstracts are due on September 30th. **You can now submit your abstract [here](https://edinburgh.eu.qualtrics.com/jfe/form/SV_3wJriza6k3bDDmu).**
+**Submissions are now closed. Thanks for your interest!**
 
 Submission guidelines
 -----
@@ -38,7 +38,7 @@ This is in case different people submit similar abstracts – again, the goal of
 
 Workshops will be in-person but we wish to also stream them online. Workshops will last 1.5 hours.
 
-Abstracts are due on the 30th September, and may be submitted via our submission portal. **You can submit your proposal [here](https://edinburgh.eu.qualtrics.com/jfe/form/SV_eyS0eGXWR5cEv6m).**
+Abstracts are due on the 30th September, and may be submitted via our submission portal. **Submissions are now closed. Thanks for your interest!**
 
 Review of submissions will occur in **two stages**:
 In the _first round_, we will ask you for:
