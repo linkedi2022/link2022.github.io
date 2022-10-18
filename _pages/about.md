@@ -18,7 +18,7 @@ This event is **free**: there are no registration fees, and we will provide free
 
 In this website, you can find information about call for poster and workshop abstracts, registration for the conference, the programme, and the venue.
 
-***Submission of poster and workshop proposals is now open! You can find the guidelines and the portal for submission [here](https://linkedi2022.github.io/submissions/).***
+***Submission of poster and workshop proposals is now closed!***
 
 Timeline
 ======
