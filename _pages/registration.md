@@ -7,9 +7,7 @@ author_profile: true
 
 LINk is a free event, meaning that there are no fees! However, we ask you to register your attendance so we can provide enough catering and do so considering attendees' dietary requirements.
 
-**You can now register following [this link](https://edinburgh.eu.qualtrics.com/jfe/form/SV_eERqASwMp3ZExWC)**.
-
-If your poster or workshop abstract is accepted, we will already have a space for you - we will contact you to get your dietary requirements.
+**Attendees registrations are now closed. If you want to join us online or in-person, please email us as ppls.psycholingcoffee [at] ed.ac.uk**
 
 ### In-person attendees
 
